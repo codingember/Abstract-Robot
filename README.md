@@ -1,4 +1,4 @@
-# RobotAbstract
+# Abstract Robot
 Creating abstract classes with Java
 
 ## Introduction
